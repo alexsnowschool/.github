@@ -4,7 +4,7 @@
 **A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement.**
 
 - [Falling Wall Lab Myanmar 2020 Winner](https://www.freiheit.org/yangon/falling-walls-lab-myanmar-2020)
-- [Gold Medal in Startup Category @ RICES MMU 2020](https://rices.mmu.edu.my/files/RICES_Results.pdf)
+- [Gold Medal in Startup Category @ RICES MMU 2020](https://drive.google.com/file/d/1E7oaWmE9dL6iKVsMDkV77UqsnjFA_fUY/view?usp=sharing)
 
 Getting decent employment in STEM fields is still very difficult for fresh graduates from rural technical universities and even from some of the famous public technological universities in Myanmar even though the private sectors are in need of manpower resources for the technological know-how for digital transformation.
 
